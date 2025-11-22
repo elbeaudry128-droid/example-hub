@@ -1,0 +1,1 @@
+{"name":"html-pipeline-api","version":"1.0.0","description":"An Express wrapper for the html-pipeline gem.","main":"index.js","scripts":{"test":"jest"},"dependencies":{"express":"^4.17.1","html-pipeline":"^1.0.0"},"devDependencies":{"typescript":"^4.5.4","jest":"^27.0.6","@types/jest":"^27.0.3","@types/node":"^16.11.22"},"license":"MIT"}
